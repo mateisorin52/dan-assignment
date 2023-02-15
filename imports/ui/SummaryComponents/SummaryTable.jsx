@@ -1,11 +1,4 @@
-import {
-  Card,
-  Checkbox,
-  FormControlLabel,
-  Grid,
-  Paper,
-  Switch,
-} from "@mui/material";
+import { Card, FormControlLabel, Grid, Switch } from "@mui/material";
 import React, { useState } from "react";
 import { DataGrid } from "@mui/x-data-grid";
 import { useTracker } from "meteor/react-meteor-data";

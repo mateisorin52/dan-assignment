@@ -1,9 +1,7 @@
 import React, { useState } from "react";
-
 import Box from "@mui/material/Box";
 import Card from "@mui/material/Card";
 import { IconButton, Paper, TextField, Typography } from "@mui/material";
-
 import { useTracker } from "meteor/react-meteor-data";
 import RemoveIcon from "@mui/icons-material/Remove";
 import AddIcon from "@mui/icons-material/Add";
